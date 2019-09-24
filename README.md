@@ -17,11 +17,11 @@ There is the report.
 
 * Time planned to use: 5Hours
 * Time actually spent (Almost)
-** 2Hours to pick PyQt5 
-** 1Hour to design
-** 2Hours to code
-** 4Hours to debug&test&commit
-** 9Hours totally
+  * 2Hours to pick PyQt5 
+  * 1Hour to design
+  * 2Hours to code
+  * 4Hours to debug&test&commit
+* 9Hours totally
 
 I think I'm too young and too naive. And there is so many functions to be finished.
 However, the App has meet the basic needs, so this is my homework1.
