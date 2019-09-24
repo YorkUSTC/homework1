@@ -17,7 +17,7 @@ There is the report.
 
 * Time planned to use: 5Hours
 * Time actually spent (Almost)
-  * 2Hours to pick PyQt5 
+  * 2Hours to pick up PyQt5 
   * 1Hour to design
   * 2Hours to code
   * 4Hours to debug&test&commit
